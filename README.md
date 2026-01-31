@@ -1,62 +1,61 @@
-# Sistem Informasi Penjualan Toko Bangunan Fajar Fatma
+# Fajar Fatma Building Materials Sales Information System
 
-## Deskripsi Project
-Project ini merupakan analisis dan perancangan sistem informasi penjualan berbasis web
-untuk Toko Bangunan Fajar Fatma. Sistem dibuat untuk mengatasi permasalahan pencatatan
-transaksi dan laporan keuangan yang masih dilakukan secara manual sehingga sering
-menyebabkan kesalahan dan keterlambatan informasi.
+## Project Description
+This project focuses on the analysis and design of a web-based sales
+information system for *Fajar Fatma Building Materials Store*. The system
+is designed to address issues in manual transaction recording and
+financial reporting, which often lead to errors and delays in
+information delivery.
 
-Project ini mencakup tahap analisis kebutuhan, perancangan sistem, dan perancangan
-antarmuka, namun belum sampai pada tahap implementasi kode.
+The project covers system requirement analysis, system design, and user
+interface design. It does not include full code implementation.
 
-## Permasalahan
-- Pencatatan transaksi masih manual menggunakan nota
-- Data laporan keuangan tidak akurat
-- Proses rekap data memakan waktu lama
-- Risiko kehilangan data dan kesalahan pencatatan
+## Problems Identified
+- Transaction records are still handled manually using paper notes
+- Financial reports are inaccurate and inconsistent
+- Data recap processes are time-consuming
+- High risk of data loss and recording errors
 
-## Tujuan
-- Merancang sistem informasi penjualan yang terstruktur
-- Membantu proses pencatatan transaksi lebih cepat dan akurat
-- Menyediakan rancangan laporan penjualan dan keuangan
+## Project Objectives
+- Design a structured and efficient sales information system
+- Improve transaction recording accuracy and speed
+- Provide well-designed sales and financial report structures
 
-## Ruang Lingkup
-- Analisis sistem penjualan
-- Perancangan flow sistem
-- Perancangan diagram UML
-- Perancangan antarmuka (UI)
+## Project Scope
+- Sales system analysis
+- System workflow design
+- UML diagram design
+- User interface (UI) design
 
-## Metodologi
-- Metode pengembangan: Prototype
-- Pendekatan sistem: Terstruktur
-- Teknik pengumpulan data: Observasi lapangan
+## Methodology
+- Development method: Prototype
+- System approach: Structured approach
+- Data collection technique: Field observation
 
-## Perancangan Sistem
-Diagram yang dibuat:
+## System Design
+The following diagrams were created:
 - Flowchart
 - Use Case Diagram & Use Case Specification
 - Sequence Diagram
 - Activity Diagram
 - Class Diagram
 
-Seluruh diagram dapat dilihat pada folder `/diagrams`.
+All diagrams are available in the `/diagrams` directory.
 
-## Perancangan Antarmuka
-Rancangan UI meliputi:
-- Halaman login
+## User Interface Design
+The UI design includes:
+- Login page
 - Dashboard
-- Halaman transaksi
-- Halaman laporan
+- Transaction page
+- Report page
 
-Rancangan UI dapat dilihat pada folder `/ui-design`.
+UI mockups can be found in the `/ui-design` directory.
 
-## Status Project
-🔹 Analisis & Perancangan Sistem  
-🔹 Belum sampai tahap implementasi kode
+## Project Status
+🔹 System Analysis & Design  
+🔹 Code implementation not included
 
 ## Tools
 - Draw.io
 - Figma
 - Microsoft Word
-
-
